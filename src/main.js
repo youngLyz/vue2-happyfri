@@ -6,6 +6,7 @@ import ajax from './config/ajax'
 import './style/common'
 import './config/rem'
 
+import animate from 'animate.css'
 Vue.use(VueRouter)
 const router = new VueRouter({
 	routes
